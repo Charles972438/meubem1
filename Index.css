@@ -1,0 +1,27 @@
+body {
+  background-color: lightyellow; /* Cor de fundo amarelada */
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #FF69B4; /* Cor rosa vibrante */
+  text-align: center;
+}
+
+img {
+  border-radius: 10px; /* Bordas arredondadas para as imagens */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Sombra para as imagens */
+}
+
+a {
+  color: #FFC107; /* Cor laranja para os links */
+  text-decoration: none; /* Remover a decoração de link */
+}
+
+a:hover {
+  color: #FF9800; /* Cor laranja mais escura para os links ao passar o mouse */
+}
+
+.center {
+  text-align: center; /* Classe para centralizar o texto */
+}
